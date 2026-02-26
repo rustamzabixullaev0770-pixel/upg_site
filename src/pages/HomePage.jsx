@@ -1,4 +1,5 @@
 import React from 'react'
+<<<<<<< HEAD
 import ProductCard from '../ProductCard'
 import axiosInstance from '../api/axiosInstance'
 import { useQuery } from '@tanstack/react-query';
@@ -30,6 +31,13 @@ export default function HomePage() {
       <NewProducts items = {data} />
       <XitProducts items={data} />
       <AboutPC/>
+=======
+
+export default function HomePage() {
+  return (
+    <div>
+      Home Pages
+>>>>>>> 17f07fb726140f569481bb306013f19801769e28
     </div>
   )
 }

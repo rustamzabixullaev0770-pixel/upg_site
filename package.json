@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
+<<<<<<< HEAD
     "@tanstack/react-query": "^4.43.0",
     "axios": "^1.13.5",
+=======
+>>>>>>> 17f07fb726140f569481bb306013f19801769e28
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
